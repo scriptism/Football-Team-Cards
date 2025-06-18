@@ -1,2 +1,2 @@
 # Football-Team-Cards
-Learing, nested objects, map() and switch
+Learing, nested objects, map(), filter() and switch
